@@ -2,7 +2,7 @@ import java.util.Scanner;
 
  public class player {
 
-  protected int number = 9;
+  protected int number = 0;
 
    public void guess() {
       Scanner sc = new Scanner(System.in);
